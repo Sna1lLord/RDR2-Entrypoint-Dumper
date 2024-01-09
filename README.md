@@ -4,8 +4,10 @@
 - For example, the signature scanner library (which can be found seperatly in my repositories) along with the logger library
 - Please ⭐ the project if you find it useful
 
-# CMake
+# Usage
 - The project uses CMake and needs to be built by it
+- You will need to create your own .txt file which the entrypoints will be dumped into
+- Change the path of the file in "invoker.cpp" line 40
 
 # Problems
 - Please let me know if you find any potential issues with the project
